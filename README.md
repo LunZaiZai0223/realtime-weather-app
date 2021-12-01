@@ -8,6 +8,7 @@
 3. [從 Hooks 開始，讓你的網頁 React 起來系列的閱讀筆記（13-17）](https://hackmd.io/HtssUwPrQtCLuJRr1nhStA)
 4. [從 Hooks 開始，讓你的網頁 React 起來系列的閱讀筆記（18-20）](https://hackmd.io/pdIBbN6sTIqJgH0hEaD0LA)
 5. [從 Hooks 開始，讓你的網頁 React 起來系列的閱讀筆記（21-22）](https://hackmd.io/JuP8sdttSLSUYCCgj3XbVA)
+6. [從 Hooks 開始，讓你的網頁 React 起來系列的閱讀筆記（23-30 完）](https://hackmd.io/434GvFg9TJeXFL280Yp-Ag)
 
 ## 參考資料
 [從 Hooks 開始，讓你的網頁 React 起來](https://ithelp.ithome.com.tw/users/20103315/ironman/2668)
